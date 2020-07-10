@@ -15,7 +15,7 @@ paginate = 5
   showMenuItems = 3
 
   # show selector to switch language
-  showLanguageSelector = true
+  showLanguageSelector = false
 
   # set theme to full screen width
   fullWidthTheme = false
