@@ -26,8 +26,10 @@ As I mentioned in my [OSCP Review](https://xma.cyber-ops.es/posts/oscp-2020-revi
 And here some other boxes not really OSCP-like but that I also consider a must since you will exploit different kind of technologies widely used today (some even also involved in OSCP but whose exploitation may not be the same):
 
 1. **Craft**
-2. **Mango** (TJNull added it recently to his list but I wouldn't add it)
-3. **Forest** (the same that I said for Mango)
+2. **Mango** *
+3. **Forest** *
 4. **Registry**
-5. **Silo**
+5. **Silo** *
 6. **Monteverde**
+
+\* These were added by TJNull in his list but I wouldn't
