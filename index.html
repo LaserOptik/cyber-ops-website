@@ -11,7 +11,11 @@
             <script type="text/javascript">
                 $(document).ready(function(){
                     $("#pgp-button").click(function(){
-                        $("#pgp-key").fadeIn(2000);
+                        if ($("#pgp-key").is(":hidden")) {
+                            $("#pgp-key").fadeIn(2000);
+                        } else {
+                            $("#pgp-key").fadeOut(1000);
+                        }
                     });
                 });
             </script>
@@ -52,7 +56,6 @@
                     =TYbF</span><br>
                     <span>-----END PGP PUBLIC KEY BLOCK-----</span>
                     
-                </div>
-            
+            </div>
     </body>
 </html>
